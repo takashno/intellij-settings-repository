@@ -1,0 +1,9 @@
+<application>
+  <component name="FindSettings">
+    <option name="customScope" value="File '/Users/takashimanozomu/.gradle/caches/modules-2/files-2.1/com.google.apis/google-api-services-webmasters/v3-rev24-1.22.0/b0b1239a913fd2bf46313508ac3e3f1e56e4aeac/google-api-services-webmasters-v3-rev24-1.22.0-sources.jar!/com/google/api/services/webmasters/Webmasters.java - [Gradle: com.google.apis:google-api-services-webmasters:v3-rev24-1.22.0]'" />
+    <option name="defaultScopeName" value="File '/Users/takashimanozomu/.gradle/caches/modules-2/files-2.1/com.google.apis/google-api-services-webmasters/v3-rev24-1.22.0/b0b1239a913fd2bf46313508ac3e3f1e56e4aeac/google-api-services-webmasters-v3-rev24-1.22.0-sources.jar!/com/google/api/services/webmasters/Webmasters.java - [Gradle: com.google.apis:google-api-services-webmasters:v3-rev24-1.22.0]'" />
+    <option name="regularExpressions" value="true" />
+    <option name="REGULAR_EXPRESSIONS" value="true" />
+    <option name="SEARCH_SCOPE" value="File '/Users/takashimanozomu/.gradle/caches/modules-2/files-2.1/com.google.apis/google-api-services-webmasters/v3-rev24-1.22.0/b0b1239a913fd2bf46313508ac3e3f1e56e4aeac/google-api-services-webmasters-v3-rev24-1.22.0-sources.jar!/com/google/api/services/webmasters/Webmasters.java - [Gradle: com.google.apis:google-api-services-webmasters:v3-rev24-1.22.0]'" />
+  </component>
+</application>
